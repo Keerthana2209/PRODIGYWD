@@ -1,7 +1,7 @@
 
 Welcome to my GitHub repository showcasing the tasks I completed during my internship at Prodigy Info Tech. Below are the projects I've worked on:
 
-1. Interactive Navigation Menu
+**Interactive Navigation Menu**
 
 Description: 
 
@@ -12,7 +12,7 @@ Features:
 Fixed position and visible on all pages
 Background color or font color changes on scroll or hover
 
-2. Stopwatch Web Application
+**Stopwatch Web Application**
    
 Description:
 
@@ -23,7 +23,7 @@ Features:
 Functions for starting, pausing, and resetting the stopwatch
 Lap time tracking and display
 
-3. Tic-Tac-Toe Web Application
+**Tic-Tac-Toe Web Application**
    
 Description:
 
@@ -34,7 +34,7 @@ Features:
 User vs. user or user vs. AI gameplay
 Functions to handle user clicks, track game state, and check for winning conditions
 
-4. Personal Portfolio Website
+**Personal Portfolio Website**
    
 Description:
 
@@ -45,7 +45,7 @@ Features:
 Home page with captivating headline, professional photo, and skill summary
 About Me section with detailed background, education, and experience
 
-5. Weather Data Web Page
+**Weather Data Web Page**
    
 Description:
 
