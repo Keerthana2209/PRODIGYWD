@@ -4,11 +4,9 @@ Welcome to my GitHub repository showcasing the tasks I completed during my inter
 **Interactive Navigation Menu**
 
 Description: 
-
 Implemented an interactive navigation menu using HTML, CSS, and JavaScript. The menu changes color or style when scrolled or hovered over a menu item.
 
 Features:
-
 Fixed position and visible on all pages
 Background color or font color changes on scroll or hover
 
